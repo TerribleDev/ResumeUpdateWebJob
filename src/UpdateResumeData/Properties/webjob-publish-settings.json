@@ -1,0 +1,9 @@
+﻿{
+  "$schema": "http://schemastore.org/schemas/json/webjob-publish-settings.json",
+  "webJobName": "UpdateResumeData",
+  "startTime": "2015-12-01T08:00:00-05:00",
+  "endTime": null,
+  "jobRecurrenceFrequency": "Month",
+  "interval": 1,
+  "runMode": "Scheduled"
+}
